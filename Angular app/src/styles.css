@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+input.ng-dirty{
+    border-color: red;
+}
+
+input.ng-valid.ng-dirty{
+    border-color: green;
+}
+
+table tr:hover{
+    cursor: pointer;
+    background-color: rgb(157, 240, 157);
+}
+.info {
+    font-weight: bold;
+    background-color: yellowgreen;
+    text-align: center;
+  }

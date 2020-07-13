@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● vehicles
+|   |  |--vehicles.component.ts|.html|.css
+|   |  +--● vehicle
+|   |  |  |--vehicle.component.ts|.html|.css
+|   |  |
+|   |  +--● vehicles-list
+|   |  |  |--vehicles-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--vehicles.service.ts
+|   |     |--vehicles.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
